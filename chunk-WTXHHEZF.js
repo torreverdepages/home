@@ -1,0 +1,1 @@
+import{$ as a,k as t}from"./chunk-MP7J4IIB.js";var e=class r{valorSource=new t(0);valorAtual$=this.valorSource.asObservable();constructor(){}atualizarValor(o){this.valorSource.next(o)}static \u0275fac=function(c){return new(c||r)};static \u0275prov=a({token:r,factory:r.\u0275fac,providedIn:"root"})};export{e as a};
