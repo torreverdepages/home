@@ -1,0 +1,1 @@
+import{Kb as a,Lb as i,ec as n,nb as o}from"./chunk-MP7J4IIB.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-visitacao"]],decls:2,vars:0,template:function(e,p){e&1&&(a(0,"p"),n(1,"visitacao works!"),i())},encapsulation:2})};export{s as VisitacaoComponent};

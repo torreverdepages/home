@@ -1,0 +1,1 @@
+var d=(e=>(e[e.Pessoafisica=0]="Pessoafisica",e[e.Pessoajuridica=1]="Pessoajuridica",e[e.Estrangeiro=2]="Estrangeiro",e[e.Administrador=3]="Administrador",e[e.AdministradorEstoque=4]="AdministradorEstoque",e))(d||{});export{d as a};

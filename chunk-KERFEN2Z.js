@@ -1,0 +1,1 @@
+import{c as o}from"./chunk-3D4NBBSG.js";import{$ as r,ea as e}from"./chunk-MP7J4IIB.js";var n=class t{constructor(i){this.http=i}viacepUrl="https://viacep.com.br/ws/";consultarCep(i){return this.http.get(`${this.viacepUrl}${i}/json/`)}static \u0275fac=function(s){return new(s||t)(e(o))};static \u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"})};export{n as a};
